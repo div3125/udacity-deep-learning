@@ -1,0 +1,23 @@
+# PyCharm Settings
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+images/
+haarcascades/
+
+# Dataset
+dogImages/
+lfw/
+bottleneck_features/
+
+# Saved Models
+saved_models/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+.DS_Store
