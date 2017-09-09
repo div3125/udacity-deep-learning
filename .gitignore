@@ -4,8 +4,8 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-images/
 haarcascades/
+extract_bottleneck_features.py
 
 # Dataset
 dogImages/
